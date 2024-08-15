@@ -60,7 +60,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://your-github-username.github.io/25-5-clock/)
+- [Live Demo Link](https://mohammadhamzamushtaqhashmi.github.io/25-5-clock/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
